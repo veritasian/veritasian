@@ -12,39 +12,6 @@ I build **practical tools at the intersection of AI and everyday workflow** — 
 
 ---
 
-### Projects
-
-<table>
-<tr>
-<td width="50%">
-<h4><a href="https://github.com/veritasian/selection-assistant">Selection Assistant</a></h4>
-<p>Obsidian plugin — drag-select text, get a floating toolbar with translate, copy, search, and custom LLM skills. Apple-style UI, dark mode, bring your own provider.</p>
-</td>
-<td width="50%">
-<h4><a href="https://github.com/veritasian/codex-deepseek">Codex + DeepSeek</a></h4>
-<p>One-script bridge between OpenAI Codex CLI and DeepSeek. Auto-installs Moon Bridge, writes config, builds binary — instant setup, no YAML.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4><a href="https://github.com/veritasian/English-opera">English Opera</a></h4>
-<p>A cognitive framework for understanding English at its structural level — vocabulary, sentence logic, and a formula for comprehension.</p>
-</td>
-<td width="50%">
-<h4><a href="https://github.com/veritasian/Obsidian-dictionary">Obsidian Dictionary</a></h4>
-<p>Lightweight Obsidian plugin — double-click any English word and get a popup definition. Pure English-English, no clutter.</p>
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=veritasian&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000&text_color=666&icon_color=7C3AED&ring_color=7C3AED" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veritasian&layout=compact&hide_title=true&hide_border=true&theme=default&bg_color=00000000&text_color=666" />
-</p>
 
 ---
 
